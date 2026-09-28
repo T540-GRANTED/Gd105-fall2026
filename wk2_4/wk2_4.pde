@@ -29,6 +29,7 @@ void draw(){
   }
  
  //playing around with tweak mode and just sticking with stuff that looks cool
-  
+ 
+ save("wk2_4.png");
   
 }
